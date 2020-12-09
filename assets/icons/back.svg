@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21.372" height="20.006" viewBox="0 0 21.372 20.006">
+    <g id="back" transform="translate(.75 1.061)">
+        <g id="arrow-icon" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5px">
+            <path id="line" d="M18.768 0L0 0" transform="translate(1.104 8.942)"/>
+            <path id="path" stroke-linejoin="round" d="M9.442.5L.5 9.442l8.942 8.942" transform="translate(-.5 -.5)"/>
+        </g>
+    </g>
+</svg>
